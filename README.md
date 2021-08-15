@@ -6,3 +6,4 @@ In this project, we will attempt to create a Cohort Analysis for customers based
 
 Cohort Analysis is useful for identifying underlying trends, as well as finding out the top contributors to the revenue within the company 
 
+For example, in the spreadsheet above, in May-2011, the company managed to engaged 284 Customers, and they are being regarded as one cohort. The next column, in Jul-2011, out of the 274 Customers, 54 of them were returning customers for the month of July. 
